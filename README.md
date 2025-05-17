@@ -35,8 +35,7 @@ Responsywna, lekka i zoptymalizowana pod SEO.
 
 ## í³« Kontakt
 
-- âœ‰ï¸ s.switala@example.com *(podmieÅ„ na swÃ³j prawdziwy e-mail, jeÅ›li chcesz)*
-- í²¼ [LinkedIn](https://www.linkedin.com) *(jeÅ›li posiadasz â€“ wstaw wÅ‚asny link)*
+- âœ‰ï¸ slawomirswitala82@gmail.com 
 
 ---
 
