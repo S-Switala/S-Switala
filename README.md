@@ -35,7 +35,7 @@ Responsywna, lekka i zoptymalizowana pod SEO.
 
 ## í³« Kontakt
 
-- âœ‰ï¸ slawomirswitala82@gmail.com 
+- âœ‰ï¸ slawomirswitala81@gmail.com 
 
 ---
 
