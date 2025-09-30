@@ -24,7 +24,7 @@ Aplikacja do zarządzania fakturami dla freelancerów i małych firm.
 Back — NestJS + Prisma + PostgreSQL  
 **Hosting:** Netlify (front, proxy `/api`) → Railway (API + DB)
 
-### 🛶 [majorkaroztocze.pl](https://majorkaroztocze.pl) — full-stack  
+### 🛶 [majorkaroztocze.pl](https://www.majorkaroztocze.pl) — full-stack  
 Aplikacja dla wypożyczalni kajaków, domków i pola namiotowego.  
 **Frontend:** React + SCSS + Axios + Helmet  
 **Backend:** Django + PostgreSQL + CKEditor + Cloudinary  
