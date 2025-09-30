@@ -1,41 +1,51 @@
-# ��� Cześć! Jestem Sławek
+# 👋 Cześć! Jestem Sławek
 
-Jestem samoukiem zajmującym się tworzeniem nowoczesnych, responsywnych aplikacji internetowych z wykorzystaniem **React.js** i **Django**.
-
-Nie wiem jeszcze wszystkiego, ale uczę się szybko – najlepiej poprzez praktykę. Lubię rozwiązywać realne problemy i zamieniać pomysły w działające rozwiązania.
-
----
-
-## ��� Technologie
-
-- React.js (Vite, React Router, Helmet)
-- SCSS / Bootstrap
-- Django + Django REST Framework
-- PostgreSQL
-- Cloudinary
-- Railway
-- Git / GitHub
+Jestem **samoukiem** – zacząłem od frontendu (React), później eksperymentowałem z backendem (najpierw Django), a dziś tworzę głównie **aplikacje full-stack w Node.js + React**.  
+Najlepiej uczę się **przez praktykę**: lubię rozumieć, jak coś działa „od środka”, szybko iterować i dowozić działające rozwiązania. Koduję ok. **2 lata** w wolnym czasie.
 
 ---
 
-## ��� Projekty
+## 🧰 Technologie
 
-### ��� [majorkaroztocze.pl](https://majorkaroztocze.pl)  
-Aplikacja fullstack dla wypożyczalni kajaków, domków letniskowych i pola namiotowego.  
-Frontend: React + SCSS + Axios + Helmet  
-Backend: Django + PostgreSQL + CKEditor + Cloudinary  
-Hosting: Railway
+- **Node.js & backend:** Node.js, NestJS, Prisma, PostgreSQL  
+- **Frontend (React):** React, TypeScript, Vite, React Router, React Hook Form, Axios, TailwindCSS  
+- **Python/Django:** Django, Django REST Framework  
+- **Hosting i usługi:** Netlify, Railway, Cloudinary  
+- **Narzędzia:** Git, GitHub
 
-### ��� [doktorr.pl](https://doktorr.pl)  
+---
+
+## 🚀 Projekty
+
+### 🧾 [Fakturowanie](https://fakturowanie.netlify.app) — full-stack  
+Aplikacja do zarządzania fakturami dla freelancerów i małych firm.  
+**Funkcje:** rejestracja/logowanie (JWT), profil, klienci (CRUD), faktury (CRUD + filtry/sortowanie), generowanie **PDF**, obsługa „zimnego startu” (health + warmup).  
+**Stack:** Front — Vite + React + TypeScript + TailwindCSS + Axios + React Router + React Hook Form  
+Back — NestJS + Prisma + PostgreSQL  
+**Hosting:** Netlify (front, proxy `/api`) → Railway (API + DB)
+
+### 🛶 [majorkaroztocze.pl](https://majorkaroztocze.pl) — full-stack  
+Aplikacja dla wypożyczalni kajaków, domków i pola namiotowego.  
+**Frontend:** React + SCSS + Axios + Helmet  
+**Backend:** Django + PostgreSQL + CKEditor + Cloudinary  
+**Hosting:** Railway
+
+### 🦷 [doktorr.pl](https://doktorr.pl) — frontend only  
 Strona informacyjna dla przychodni dentystycznej.  
-Frontend: React + Vite + SCSS  
-Responsywna, lekka i zoptymalizowana pod SEO.
+**Frontend:** React + Vite + SCSS (responsywna, lekka, z dbałością o SEO)
 
 ---
 
-## ��� Kontakt
+## 💼 Szukam pracy
 
-- ✉️ slawomirswitala81@gmail.com 
+Szukam **pracy na pełen etat** (React / Node / full-stack).  
+Otwarty na **pracę zdalną** lub **relokację do dowolnego miasta w Polsce**.
+
+---
+
+## 📬 Kontakt
+
+- ✉️ **slawomirswitala81@gmail.com**
 
 ---
 
